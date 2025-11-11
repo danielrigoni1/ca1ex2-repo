@@ -1,2 +1,3 @@
-print("This is my new application")
-print("Testing credentials for aws in production")
+print("AWS Credentials tested local key")
+print("works on laptop")
+print("main branch update")
